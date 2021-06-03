@@ -3,7 +3,9 @@ NBA Stats Analysis
 ## Software Used
 Python
 ## Summary
-We will use NBA game data from the 2018-2019 season to investigate how size affects player performance in the NBA. We will examine how player height, weight, and position contributes to performance. The big question we want to answer is: How do various attributes affect player performance?  
+We will use NBA game data from the 2018-2019 season to investigate how size affects player performance in the NBA. We will examine how player height, weight, and position contributes to performance. 
+
+The big question we want to answer is: How do various attributes affect player performance?  
 
 Three specific questions: 
 
